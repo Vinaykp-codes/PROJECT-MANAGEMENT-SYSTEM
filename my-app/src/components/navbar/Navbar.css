@@ -1,0 +1,33 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.1); /* Use background-color instead of background */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+    color:black;
+  }
+  .nav-left{
+    display: flex;
+    align-items: center;
+    color: brown;
+    font-size: large;
+  }
+  .navbar-logo {
+    height: 70px;
+    margin-right: 10px;
+  }
+  .nav-right{
+    display: flex;
+    align-items: center;
+  }
+  .btn-success {
+    padding: 5px ; 
+    font-size: 12px;
+    width: 50px;
+    height: 40px;
+  }
+  

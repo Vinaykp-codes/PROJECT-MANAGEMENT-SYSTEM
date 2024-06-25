@@ -1,0 +1,13 @@
+.responsive-img {
+  width: 100%;
+  max-height: 100vh;
+  height: auto;
+  object-fit: cover;
+}
+.signup-button {
+  width: 100px;
+  height: 40px;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+}
