@@ -72,7 +72,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { resetState } from '../../redux/studentTeacherSlice';
 import { useState } from 'react';
 import { useEffect } from 'react';
-import { IoIosNotifications } from "react-icons/io";
+// import { IoIosNotifications } from "react-icons/io";
 
 function Navbar() {
   let dispatch = useDispatch();

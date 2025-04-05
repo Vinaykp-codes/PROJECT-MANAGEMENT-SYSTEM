@@ -29,7 +29,9 @@ const Home = () => {
   const [projects, setProjects] = useState([]);
 
   const fetchProjects = async () => {
-    const response = await axios.get('/project-api/projects');
+    // const response = await axios.get('/project-api/projects');
+    const response = await axios.get('http://localhost:4000/project-api/projects');
+
     console.log(response)
     setProjects(response.data.payload);
   };
