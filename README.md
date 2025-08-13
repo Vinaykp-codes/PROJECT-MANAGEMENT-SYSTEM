@@ -1,7 +1,7 @@
-# UG Project Information System
+# Project Information System
 
 ## Overview
-The UG Project Information System is a full-stack application designed to facilitate collaboration between students and faculty on academic projects. It enables efficient project tracking, team management, and publication tracking.
+The  Project Information System is a full-stack application designed to facilitate collaboration between students and faculty on academic projects. It enables efficient project tracking, team management, and publication tracking.
 
 ## Features
 - Role-based access for **students** and **faculty**.
