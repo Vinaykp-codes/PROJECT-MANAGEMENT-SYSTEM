@@ -101,7 +101,7 @@ function Navbar() {
     <div className="navbar-container">
       <div className='nav-left'>
       <img src={Logo} alt="Logo" className="navbar-logo" />
-      <span>VNRVJIET</span></div>
+      <span>CMRTC</span></div>
 <div className='nav-right'>
       <li className='nav-item d-flex'>
               <input
